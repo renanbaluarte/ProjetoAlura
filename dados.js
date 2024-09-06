@@ -5,7 +5,8 @@ let dubladores = [
         nome: "Guilherme Briggs",
         descricao: "Guilherme Briggs é um renomado dublador brasileiro conhecido por sua versatilidade e talento na dublagem de diversos personagens icônicos. Com uma carreira que abrange desde animações até videogames, Briggs é famoso por dar voz a personagens como o Megatron em 'Transformers' e o Kero-chan em 'Sakura Card Captors'. Sua habilidade em criar vozes distintas e expressivas o tornou uma figura destacada na indústria de dublagem no Brasil.",
         personagem: "Megatron em Transformers, Kero-chan em Sakura Card Captors, Superman em Liga da Justiça, Buzz Lightyear em Toy Story, e Hamtaro em Hamtaro.",
-        link: "https://pt.wikipedia.org/wiki/Guilherme_Briggs"
+        link: "https://pt.wikipedia.org/wiki/Guilherme_Briggs",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgxLYgMkgjREVKhTJQ28HWHgZLnrskZ_7nX_lRcr_k-6touscf"
     },
 
     {
@@ -111,6 +112,112 @@ let dubladores = [
         descricao: "Fábio Lucindo é um dublador brasileiro conhecido por sua voz jovem e enérgica. Ele é famoso por dublar o Ash Ketchum em 'Pokémon' e o Kuririn em 'Dragon Ball'.",
         personagem: "Ash Ketchum em Pokémon, Kuririn em Dragon Ball, e Arnold em Hey Arnold!",
         link: "https://dublagem.fandom.com/wiki/Fábio_Lucindo"
+    },
+    {
+        nome: "Nair Amorim",
+        descricao: "Nair Amorim foi uma dubladora brasileira conhecida por seu trabalho em diversas animações e séries clássicas. Ela é lembrada especialmente por sua interpretação de Cinderela e Minnie Mouse.",
+        personagem: "Cinderela em Cinderela, Minnie Mouse em várias produções da Disney, e Smurfette em Os Smurfs.",
+        link: "https://dublagem.fandom.com/wiki/Nair_Amorim"
+    },
+    {
+        nome: "Marco Ribeiro",
+        descricao: "Marco Ribeiro é um dublador brasileiro extremamente conhecido por dar voz a vários personagens de filmes e séries de sucesso. Entre seus trabalhos mais notáveis estão Tom Hanks e Jim Carrey.",
+        personagem: "Woody em Toy Story, Jim Carrey em diversos filmes, e Tony Stark em Vingadores.",
+        link: "https://dublagem.fandom.com/wiki/Marco_Ribeiro"
+    },
+    {
+        nome: "Cassyus Romero",
+        descricao: "Cassyus Romero é um dublador brasileiro conhecido por sua atuação expressiva, especialmente em personagens de séries animadas e filmes de ação.",
+        personagem: "Oliver Queen em Arrow, Daryl Dixon em The Walking Dead, e Sam Winchester em Supernatural.",
+        link: "https://dublagem.fandom.com/wiki/Cassyus_Romero"
+    },
+    {
+        nome: "Mariangela Cantú",
+        descricao: "Mariangela Cantú é uma dubladora brasileira conhecida por sua voz versátil, dando vida a personagens cativantes de séries e animações.",
+        personagem: "Tristeza em Divertida Mente, Wanda Maximoff em WandaVision, e Bayonetta em Bayonetta.",
+        link: "https://dublagem.fandom.com/wiki/Mariangela_Cant%C3%BA"
+    },
+    {
+        nome: "Charles Emmanuel",
+        descricao: "Charles Emmanuel é um dublador brasileiro conhecido por sua voz jovem e versátil. Ele é famoso por dublar personagens de animes e séries animadas populares.",
+        personagem: "Ruffy em One Piece, Ben Tennyson em Ben 10, Light Yagami em Death Note, e Ron Weasley em Harry Potter.",
+        link: "https://dublagem.fandom.com/wiki/Charles_Emmanuel"
+    },
+    {
+        nome: "Tatiane Keplmair",
+        descricao: "Tatiane Keplmair é uma dubladora brasileira conhecida por dar vida a personagens icônicos de animes e séries animadas. Sua voz é reconhecida por fãs de várias gerações.",
+        personagem: "Bulma em Dragon Ball, Misty em Pokémon, e Yolei em Digimon Adventure 02.",
+        link: "https://dublagem.fandom.com/wiki/Tatiane_Keplmair"
+    },
+    {
+        nome: "Felipe Drummond",
+        descricao: "Felipe Drummond é um dublador brasileiro que se destacou por sua atuação em animes e animações. Ele é conhecido por sua interpretação emocional em papéis marcantes.",
+        personagem: "Meliodas em The Seven Deadly Sins, Eren Jaeger em Attack on Titan, e Grey em Fairy Tail.",
+        link: "https://dublagem.fandom.com/wiki/Felipe_Drummond"
+    },
+    {
+        nome: "Letícia Celini",
+        descricao: "Letícia Celini é uma dubladora brasileira conhecida por sua interpretação em diversos animes e séries. Ela é especialmente lembrada por sua voz em personagens femininas fortes.",
+        personagem: "Hinata Hyuga em Naruto, Mikasa Ackerman em Attack on Titan, e Orihime Inoue em Bleach.",
+        link: "https://dublagem.fandom.com/wiki/Let%C3%ADcia_Celini"
+    },
+    {
+        nome: "Marcelo Campos",
+        descricao: "Marcelo Campos é um dublador brasileiro muito conhecido no mundo dos animes, com uma longa carreira que inclui personagens icônicos de diversas franquias populares.",
+        personagem: "Edward Elric em Fullmetal Alchemist, Yugi Muto em Yu-Gi-Oh!, e Trunks em Dragon Ball Z.",
+        link: "https://dublagem.fandom.com/wiki/Marcelo_Campos"
+    },
+    {
+        nome: "Fernanda Fernandes",
+        descricao: "Fernanda Fernandes é uma dubladora brasileira conhecida por sua atuação em animes e séries de animação. Sua voz é marcante em personagens femininas de animes famosos.",
+        personagem: "Sakura Kinomoto em Sakura Card Captors, Misty em Pokémon, e Sailor Mars em Sailor Moon.",
+        link: "https://dublagem.fandom.com/wiki/Fernanda_Fernandes"
+    },
+    {
+        nome: "Rodrigo Andreatto",
+        descricao: "Rodrigo Andreatto é um dublador brasileiro conhecido por dublar personagens carismáticos em animes e séries. Sua voz é reconhecida por fãs de várias produções.",
+        personagem: "Shikamaru Nara em Naruto, Roronoa Zoro em One Piece, e Joe Kido em Digimon.",
+        link: "https://dublagem.fandom.com/wiki/Rodrigo_Andreatto"
+    },
+    {
+        nome: "Tatiane Keplmair",
+        descricao: "Tatiane Keplmair é uma dubladora brasileira conhecida por dar vida a personagens icônicos de animes e séries animadas. Sua voz é reconhecida por fãs de várias gerações.",
+        personagem: "Bulma em Dragon Ball, Misty em Pokémon, e Yolei em Digimon Adventure 02.",
+        link: "https://dublagem.fandom.com/wiki/Tatiane_Keplmair"
+    },
+    {
+        nome: "Felipe Drummond",
+        descricao: "Felipe Drummond é um dublador brasileiro que se destacou por sua atuação em animes e animações. Ele é conhecido por sua interpretação emocional em papéis marcantes.",
+        personagem: "Meliodas em The Seven Deadly Sins, Eren Jaeger em Attack on Titan, e Grey em Fairy Tail.",
+        link: "https://dublagem.fandom.com/wiki/Felipe_Drummond"
+    },
+    {
+        nome: "Letícia Celini",
+        descricao: "Letícia Celini é uma dubladora brasileira conhecida por sua interpretação em diversos animes e séries. Ela é especialmente lembrada por sua voz em personagens femininas fortes.",
+        personagem: "Hinata Hyuga em Naruto, Mikasa Ackerman em Attack on Titan, e Orihime Inoue em Bleach.",
+        link: "https://dublagem.fandom.com/wiki/Let%C3%ADcia_Celini"
+    },
+    {
+        nome: "Marcelo Campos",
+        descricao: "Marcelo Campos é um dublador brasileiro muito conhecido no mundo dos animes, com uma longa carreira que inclui personagens icônicos de diversas franquias populares.",
+        personagem: "Edward Elric em Fullmetal Alchemist, Yugi Muto em Yu-Gi-Oh!, e Trunks em Dragon Ball Z.",
+        link: "https://dublagem.fandom.com/wiki/Marcelo_Campos"
+    },
+    {
+        nome: "Fernanda Fernandes",
+        descricao: "Fernanda Fernandes é uma dubladora brasileira conhecida por sua atuação em animes e séries de animação. Sua voz é marcante em personagens femininas de animes famosos.",
+        personagem: "Sakura Kinomoto em Sakura Card Captors, Misty em Pokémon, e Sailor Mars em Sailor Moon.",
+        link: "https://dublagem.fandom.com/wiki/Fernanda_Fernandes"
+    },
+    {
+        nome: "Rodrigo Andreatto",
+        descricao: "Rodrigo Andreatto é um dublador brasileiro conhecido por dublar personagens carismáticos em animes e séries. Sua voz é reconhecida por fãs de várias produções.",
+        personagem: "Shikamaru Nara em Naruto, Roronoa Zoro em One Piece, e Joe Kido em Digimon.",
+        link: "https://dublagem.fandom.com/wiki/Rodrigo_Andreatto"
     }
+    
+    
+
+    
 
 ];
