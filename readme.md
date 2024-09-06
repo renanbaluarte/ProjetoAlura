@@ -11,8 +11,6 @@ Este projeto foi criado com foco em facilitar a busca por dubladores brasileiros
 - **HTML5**: Estrutura das páginas.
 - **CSS3**: Estilização do site.
 - **JavaScript**: Funcionalidades interativas.
-- **API de Dubladores**: Integração com uma API fictícia para demonstrar como seriam as requisições e respostas dos dados de dubladores.
-- **Git** e **GitHub**: Controle de versão e colaboração.
 
 ## 🚀 Funcionalidades
 
