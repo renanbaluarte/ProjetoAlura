@@ -63,8 +63,7 @@ body {
 
 
 .resultados-pesquisa {
-    /* width: 60rem;  */
-    /* height: 46vh;  */
+
     width: 1000px;
     overflow-y: auto; 
     /* margin-top: 1rem;  */
@@ -74,17 +73,20 @@ body {
     padding-right:17%;
     margin: auto;
     margin-bottom: 10px;
+    box-shadow: 10px;
     
 }
 
 .item-resultado {
-    background: #FFFFFF; /* Cor de fundo dos itens */
-    border-radius: 0.6rem; /* Borda arredondada */
-    padding: 1rem; /* Espaçamento interno */
-    margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    background: #cab2fb; 
+    border-radius: 0.6rem; 
+    padding: 1rem; 
+    margin-bottom: 1rem; 
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.308);
     margin: auto;
     margin-left: 25%;
     align-content: center;
+    box-shadow: 10px;
+    font-family: Arial, Helvetica, sans-serif;
     
 }

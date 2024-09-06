@@ -6,7 +6,6 @@ let dubladores = [
         descricao: "Guilherme Briggs é um renomado dublador brasileiro conhecido por sua versatilidade e talento na dublagem de diversos personagens icônicos. Com uma carreira que abrange desde animações até videogames, Briggs é famoso por dar voz a personagens como o Megatron em 'Transformers' e o Kero-chan em 'Sakura Card Captors'. Sua habilidade em criar vozes distintas e expressivas o tornou uma figura destacada na indústria de dublagem no Brasil.",
         personagem: "Megatron em Transformers, Kero-chan em Sakura Card Captors, Superman em Liga da Justiça, Buzz Lightyear em Toy Story, e Hamtaro em Hamtaro.",
         link: "https://pt.wikipedia.org/wiki/Guilherme_Briggs",
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgxLYgMkgjREVKhTJQ28HWHgZLnrskZ_7nX_lRcr_k-6touscf"
     },
 
     {
@@ -110,7 +109,7 @@ let dubladores = [
     {
         nome: "Fábio Lucindo",
         descricao: "Fábio Lucindo é um dublador brasileiro conhecido por sua voz jovem e enérgica. Ele é famoso por dublar o Ash Ketchum em 'Pokémon' e o Kuririn em 'Dragon Ball'.",
-        personagem: "Ash Ketchum em Pokémon, Kuririn em Dragon Ball, e Arnold em Hey Arnold!",
+        personagem: "Ash Ketchum em Pokémon, Kuririn em Dragon Ball, Arnold em Hey Arnold! e Peixonauta em Peixonauta",
         link: "https://dublagem.fandom.com/wiki/Fábio_Lucindo"
     },
     {
@@ -214,10 +213,130 @@ let dubladores = [
         descricao: "Rodrigo Andreatto é um dublador brasileiro conhecido por dublar personagens carismáticos em animes e séries. Sua voz é reconhecida por fãs de várias produções.",
         personagem: "Shikamaru Nara em Naruto, Roronoa Zoro em One Piece, e Joe Kido em Digimon.",
         link: "https://dublagem.fandom.com/wiki/Rodrigo_Andreatto"
+    },
+    {
+        nome: "Christiane Monteiro",
+        descricao: "Christiane Monteiro é uma dubladora brasileira conhecida por dublar a personagem Kagome Higurashi em 'InuYasha' e a Sailor Mars em 'Sailor Moon'.",
+        personagem: "Kagome Higurashi em InuYasha, Sailor Mars em Sailor Moon",
+        link: "https://dublagem.fandom.com/wiki/Christiane_Monteiro"
+    },
+    {
+        nome: "Marco Ribeiro",
+        descricao: "Marco Ribeiro é um dublador brasileiro conhecido por dublar o personagem Woody em 'Toy Story' e o Yusuke Urameshi em 'Yu Yu Hakusho'.",
+        personagem: "Woody em Toy Story, Yusuke Urameshi em Yu Yu Hakusho",
+        link: "https://dublagem.fandom.com/wiki/Marco_Ribeiro"
+    },
+    {
+        nome: "Flávia Saddy",
+        descricao: "Flávia Saddy é uma dubladora brasileira conhecida por dublar a personagem Jessie em 'Pokémon' e a Serena Tsukino em 'Sailor Moon'.",
+        personagem: "Jessie em Pokémon, Serena Tsukino em Sailor Moon",
+        link: "https://dublagem.fandom.com/wiki/Flávia_Saddy"
+    },
+    {
+        nome: "Mônica Rossi",
+        descricao: "Mônica Rossi é uma dubladora brasileira conhecida por dublar a personagem Lisa Simpson em 'Os Simpsons' e a Jean Grey em 'X-Men: Evolution'.",
+        personagem: "Lisa Simpson em Os Simpsons, Jean Grey em X-Men: Evolution",
+        link: "https://dublagem.fandom.com/wiki/Mônica_Rossi"
+    },
+    {
+        nome: "Alexandre Moreno",
+        descricao: "Alexandre Moreno é um dublador brasileiro conhecido por dublar o personagem Shrek em 'Shrek' e o Capitão América em várias animações da Marvel.",
+        personagem: "Shrek em Shrek, Capitão América em várias animações da Marvel",
+        link: "https://dublagem.fandom.com/wiki/Alexandre_Moreno"
+    },
+    {
+        nome: "Adriana Pissardini",
+        descricao: "Adriana Pissardini é uma dubladora brasileira conhecida por dublar a personagem Bulma em 'Dragon Ball Z' e a Jessie em 'Pokémon'.",
+        personagem: "Bulma em Dragon Ball Z, Jessie em Pokémon",
+        link: "https://dublagem.fandom.com/wiki/Adriana_Pissardini"
+    },
+    {
+        nome: "Jorge Vasconcellos",
+        descricao: "Jorge Vasconcellos é um dublador brasileiro conhecido por dublar o personagem Homer Simpson em 'Os Simpsons' e o Optimus Prime em 'Transformers'.",
+        personagem: "Homer Simpson em Os Simpsons, Optimus Prime em Transformers",
+        link: "https://dublagem.fandom.com/wiki/Jorge_Vasconcellos"
+    },
+    {
+        nome: "Marisa Leal",
+        descricao: "Marisa Leal é uma dubladora brasileira conhecida por dublar a personagem Ariel em 'A Pequena Sereia' e a Kagome Higurashi em 'InuYasha'.",
+        personagem: "Ariel em A Pequena Sereia, Kagome Higurashi em InuYasha",
+        link: "https://dublagem.fandom.com/wiki/Marisa_Leal"
+    },
+    {
+        nome: "Luiz Carlos Persy",
+        descricao: "Luiz Carlos Persy é um dublador brasileiro conhecido por dublar o personagem Thanos em várias animações da Marvel e o Senhor Incrível em 'Os Incríveis'.",
+        personagem: "Thanos em várias animações da Marvel, Senhor Incrível em Os Incríveis",
+        link: "https://dublagem.fandom.com/wiki/Luiz_Carlos_Persy"
+    },
+    {
+        nome: "Mauro Eduardo Lima",
+        descricao: "Mauro Eduardo Lima é um dublador brasileiro conhecido por dublar o personagem Kakashi Hatake em 'Naruto' e o Wolverine em várias animações da Marvel.",
+        personagem: "Kakashi Hatake em Naruto, Wolverine em várias animações da Marvel",
+        link: "https://dublagem.fandom.com/wiki/Mauro_Eduardo_Lima"
+    },
+    {
+        nome: "Tânia Gaidarji",
+        descricao: "Tânia Gaidarji é uma dubladora brasileira conhecida por dublar a personagem Bulma em 'Dragon Ball' e a Sailor Jupiter em 'Sailor Moon'.",
+        personagem: "Bulma em Dragon Ball, Sailor Jupiter em Sailor Moon",
+        link: "https://dublagem.fandom.com/wiki/Tânia_Gaidarji"
+    },
+    {
+        nome: "Fábio Azevedo",
+        descricao: "Fábio Azevedo é um dublador brasileiro conhecido por dublar o personagem Sanji em 'One Piece' e o Shikamaru Nara em 'Naruto'.",
+        personagem: "Sanji em One Piece, Shikamaru Nara em Naruto",
+        link: "https://dublagem.fandom.com/wiki/Fábio_Azevedo"
+    },
+    {
+        nome: "Angélica Santos",
+        descricao: "Angélica Santos é uma dubladora brasileira conhecida por dublar a personagem Chihiro em 'A Viagem de Chihiro' e a Sailor Mercury em 'Sailor Moon'.",
+        personagem: "Chihiro em A Viagem de Chihiro, Sailor Mercury em Sailor Moon",
+        link: "https://dublagem.fandom.com/wiki/Angélica_Santos"
+    },
+    {
+        nome: "Hélio Ribeiro",
+        descricao: "Hélio Ribeiro é um dublador brasileiro conhecido por dublar o personagem Batman em várias animações da DC e o Mestre Ancião em 'Dragon Ball'.",
+        personagem: "Batman em várias animações da DC, Mestre Ancião em Dragon Ball",
+        link: "https://dublagem.fandom.com/wiki/Hélio_Ribeiro"
+    },
+    {
+        nome: "Mônica Ward",
+        descricao: "Mônica Ward é uma dubladora brasileira conhecida por dublar a personagem Lisa Simpson em 'Os Simpsons' e a Bulma em 'Dragon Ball'.",
+        personagem: "Lisa Simpson em Os Simpsons, Bulma em Dragon Ball",
+        link: "https://dublagem.fandom.com/wiki/Mônica_Ward"
+    },
+    {
+        nome: "José Santa Cruz",
+        descricao: "José Santa Cruz é um dublador brasileiro conhecido por dublar o personagem Mestre Kame em 'Dragon Ball' e o Professor Carvalho em 'Pokémon'.",
+        personagem: "Mestre Kame em Dragon Ball, Professor Carvalho em Pokémon",
+        link: "https://dublagem.fandom.com/wiki/José_Santa_Cruz"
+    },
+    {
+        nome: "Mauro Ramos",
+        descricao: "Mauro Ramos é um dublador brasileiro conhecido por dublar o Pumba em 'O Rei Leão' e o Shrek em 'Shrek'.",
+        personagem: "Pumba em O Rei Leão, Shrek em Shrek",
+        link: "https://dublagem.fandom.com/wiki/Mauro_Ramos"
+    },
+    {
+        nome: "Letícia Quinto",
+        descricao: "Letícia Quinto é uma dubladora brasileira conhecida por dublar a personagem Saori Kido em 'Os Cavaleiros do Zodíaco'.",
+        personagem: "Saori Kido em Os Cavaleiros do Zodíaco",
+        link: "https://dublagem.fandom.com/wiki/Letícia_Quinto"
+    },
+    {
+        nome: "Marcelo Campos",
+        descricao: "Marcelo Campos é um dublador brasileiro conhecido por dublar o personagem Yugi Muto em 'Yu-Gi-Oh!' e o Edward Elric em 'Fullmetal Alchemist'.",
+        personagem: "Yugi Muto em Yu-Gi-Oh!, Edward Elric em Fullmetal Alchemist",
+        link: "https://dublagem.fandom.com/wiki/Marcelo_Campos"
+    },
+    {
+        nome: "Úrsula Bezerra",
+        descricao: "Úrsula Bezerra é uma dubladora e diretora de dublagem brasileira, conhecida por dar voz aos personagens Goku (criança) no anime 'Dragon Ball' e Naruto Uzumaki no anime 'Naruto'. Ela começou sua carreira em 1982 e pertence a uma família de dubladores, incluindo seus irmãos Wendel e Ulisses Bezerra.",
+        personagem: "Goku (criança) em Dragon Ball, Naruto Uzumaki em Naruto",
+        link: "https://dublagem.fandom.com/wiki/%C3%9Arsula_Bezerra"
     }
-    
-    
-
-    
-
 ];
+    
+    
+    
+
+
