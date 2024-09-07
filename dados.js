@@ -333,7 +333,63 @@ let dubladores = [
         descricao: "Úrsula Bezerra é uma dubladora e diretora de dublagem brasileira, conhecida por dar voz aos personagens Goku (criança) no anime 'Dragon Ball' e Naruto Uzumaki no anime 'Naruto'. Ela começou sua carreira em 1982 e pertence a uma família de dubladores, incluindo seus irmãos Wendel e Ulisses Bezerra.",
         personagem: "Goku (criança) em Dragon Ball, Naruto Uzumaki em Naruto",
         link: "https://dublagem.fandom.com/wiki/%C3%9Arsula_Bezerra"
+    },
+    {
+        nome: "Orlando Viggiani",
+        descricao: "Orlando Viggiani é um dublador brasileiro conhecido por dar voz ao personagem Marty McFly na dublagem original de 'De Volta para o Futuro'.",
+        personagem: "Marty McFly em De Volta para o Futuro, Mickey Mouse, Kermit, o Sapo, George Jetson, Ryu em Street Fighter II",
+        link: "https://dublagem.fandom.com/wiki/Orlando_Viggiani"
+    },
+    {
+        nome: "Eleu Salvador",
+        descricao: "Eleu Salvador é um dublador brasileiro conhecido por dar voz ao personagem Dr. Emmett Brown na dublagem original de 'De Volta para o Futuro'.",
+        personagem: "Dr. Emmett Brown em De Volta para o Futuro, Dr. Briefs em Dragon Ball, Vovô Higurashi em Inuyasha, Professor Dingledong em Pica-Pau",
+        link: "https://dublagem.fandom.com/wiki/Eleu_Salvador"
+    },
+    {
+        nome: "Mauro Ramos",
+        descricao: "Mauro Ramos é um dublador brasileiro conhecido por dar voz ao personagem Dr. Emmett Brown na nova dublagem de 'De Volta para o Futuro'.",
+        personagem: "Dr. Emmett Brown em De Volta para o Futuro (nova dublagem), Pumba em O Rei Leão, Shrek em Shrek",
+        link: "https://dublagem.fandom.com/wiki/Mauro_Ramos"
+    },
+    {
+        nome: "Neuza Azevedo",
+        descricao: "Neuza Azevedo é uma dubladora brasileira conhecida por dar voz à personagem Lorraine Baines McFly na dublagem original de 'De Volta para o Futuro'.",
+        personagem: "Lorraine Baines McFly em De Volta para o Futuro, Kim Basinger em vários filmes, Sayaka em Changeman, Rainha Gwynneth em Teatro dos Contos de Fada",
+        link: "https://dublagem.fandom.com/wiki/Neuza_Azevedo"
+    },
+    {
+        nome: "Miriam Ficher",
+        descricao: "Miriam Ficher é uma dubladora brasileira conhecida por dar voz à personagem Lorraine Baines McFly na nova dublagem de 'De Volta para o Futuro'.",
+        personagem: "Lorraine Baines McFly em De Volta para o Futuro (nova dublagem), Lisa Simpson em Os Simpsons, Jean Grey em X-Men: Evolution",
+        link: "https://dublagem.fandom.com/wiki/Miriam_Ficher"
+    },
+    {
+        nome: "Ézio Ramos",
+        descricao: "Ézio Ramos é um dublador brasileiro conhecido por dar voz ao personagem George McFly na dublagem original de 'De Volta para o Futuro'.",
+        personagem: "George McFly em De Volta para o Futuro, Afrodite de Peixes em Os Cavaleiros do Zodíaco, Dr. Peter Venkman em Os Caça-Fantasmas, Wayne Szalinski em Querida, Encolhi as Crianças",
+        link: "https://dublagem.fandom.com/wiki/%C3%89zio_Ramos"
+    },
+    {
+        nome: "Alexandre Moreno",
+        descricao: "Alexandre Moreno é um dublador brasileiro conhecido por dar voz ao personagem George McFly na nova dublagem de 'De Volta para o Futuro'.",
+        personagem: "George McFly em De Volta para o Futuro (nova dublagem), Shrek em Shrek, Capitão América em várias animações da Marvel",
+        link: "https://dublagem.fandom.com/wiki/Alexandre_Moreno"
+    },
+    {
+        nome: "Renato Márcio",
+        descricao: "Renato Márcio é um dublador brasileiro conhecido por dar voz ao personagem Biff Tannen na dublagem original de 'De Volta para o Futuro'.",
+        personagem: "Biff Tannen em De Volta para o Futuro, Chucky em Brinquedo Assassino, Seu Sirigueijo em Bob Esponja, Shukaku em Naruto",
+        link: "https://dublagem.fandom.com/wiki/Renato_M%C3%A1rcio"
+    },
+    {
+        nome: "Hélio Ribeiro",
+        descricao: "Hélio Ribeiro é um dublador brasileiro conhecido por dar voz ao personagem Biff Tannen na nova dublagem de 'De Volta para o Futuro'.",
+        personagem: "Biff Tannen em De Volta para o Futuro (nova dublagem), Batman em várias animações da DC, Mestre Ancião em Dragon Ball",
+        link: "https://dublagem.fandom.com/wiki/H%C3%A9lio_Ribeiro"
     }
+    
+    
 ];
     
     

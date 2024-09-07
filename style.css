@@ -1,92 +1,83 @@
+/* Estilo para o cabeçalho da página */
 header {
-
-    background-color: #7289da;
-    border-radius: 10px;
-    color: azure;
-    margin: auto;
-    size-adjust: auto;
-    font-size: larger;
-    text-align: center;
-    width: 800px;
-
+    background-color: #7289da; /* Define a cor de fundo como um azul suave */
+    border-radius: 10px; /* Arredonda os cantos do cabeçalho */
+    color: azure; /* Define a cor do texto como azul-claro (azure) */
+    margin: auto; /* Centraliza o cabeçalho na página */
+    size-adjust: auto; /* Ajuste de tamanho automático */
+    font-size: larger; /* Define o tamanho da fonte maior */
+    text-align: center; /* Alinha o texto no centro */
+    width: 800px; /* Define a largura fixa do cabeçalho */
 }
 
+/* Estilos para a primeira seção da página */
 .section1 {
-
-    background-color: #7289da;
-    border-radius: 10px;
-    color: azure;
-    margin: auto;
-    size-adjust: auto;
-    font-size: larger;
-    text-align: center;
-    width: 800px;
-    margin-top: 90px;
-    height: 300px;
-    font-family: Arial, Helvetica, sans-serif;
-
-
-
+    background-color: #7289da; /* Mesma cor de fundo que o cabeçalho */
+    border-radius: 10px; /* Arredondamento dos cantos */
+    color: azure; /* Cor do texto em azul-claro */
+    margin: auto; /* Centraliza a seção */
+    size-adjust: auto; /* Ajuste de tamanho automático */
+    font-size: larger; /* Fonte maior */
+    text-align: center; /* Alinha o texto no centro */
+    width: 800px; /* Define a largura fixa */
+    margin-top: 90px; /* Espaçamento superior de 90px */
+    height: 300px; /* Altura de 300px para a seção */
+    font-family: Arial, Helvetica, sans-serif; /* Define a família da fonte */
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.308); /* Aplica sombra na caixa com leve transparência */
 }
 
+/* Estilo para os campos de entrada (input) */
 .input {
-    margin-top: 15px;
-    width: 30rem;
-    border: none;
-    padding: 1rem;
-    border-radius: 1.5rem;
-    margin-bottom: 1rem;
-    color: #45474B;
-    font-size: 1rem;
-    box-sizing: border-box;
-
+    margin-top: 15px; /* Espaçamento superior de 15px */
+    width: 30rem; /* Largura definida em rem (30rem) */
+    border: none; /* Remove a borda padrão */
+    padding: 1rem; /* Define o preenchimento interno */
+    border-radius: 1.5rem; /* Arredondamento das bordas em 1.5rem */
+    margin-bottom: 1rem; /* Espaçamento inferior de 1rem */
+    color: #45474B; /* Cor do texto em um tom de cinza escuro */
+    font-size: 1rem; /* Tamanho da fonte de 1rem */
+    box-sizing: border-box; /* Inclui o padding e border no cálculo da largura total */
 }
 
+/* Estilo para o botão */
 .botao {
-
-    padding: 0.8rem 1.2rem;
-    border: none;
-    border-radius: 1.5rem;
-    background-color: #9a17bb;
-    color: #F5F7F8;
-    font-size: 1rem;
-    cursor: pointer;
+    padding: 0.8rem 1.2rem; /* Preenchimento vertical e horizontal */
+    border: none; /* Remove borda padrão */
+    border-radius: 1.5rem; /* Bordas arredondadas em 1.5rem */
+    background-color: #9a17bb; /* Cor de fundo roxa */
+    color: #F5F7F8; /* Cor do texto em cinza claro */
+    font-size: 1rem; /* Tamanho da fonte de 1rem */
+    cursor: pointer; /* Muda o cursor para 'pointer' ao passar sobre o botão */
 }
 
+/* Estilos para o corpo da página */
 body {
-
-    background-color: #424549;
-
+    background-color: #424549; /* Cor de fundo da página em um tom de cinza escuro */
 }
 
-
-
-
+/* Estilo para a lista de resultados de pesquisa */
 .resultados-pesquisa {
-
-    width: 1000px;
-    overflow-y: auto; 
-    /* margin-top: 1rem;  */
-    padding: 1rem; 
-    border-radius: 0.6rem; 
-    /* margin-left: 45px; */
-    padding-right:17%;
-    margin: auto;
-    margin-bottom: 10px;
-    box-shadow: 10px;
-    
+    margin-top: 30px; /* Espaçamento superior de 30px */
+    width: 1000px; /* Define a largura de 1000px */
+    overflow-y: auto; /* Adiciona uma barra de rolagem vertical quando necessário */
+    padding: 1rem; /* Preenchimento interno de 1rem */
+    border-radius: 0.6rem; /* Arredondamento das bordas em 0.6rem */
+    padding-right: 17%; /* Preenchimento à direita de 17% */
+    margin: auto; /* Centraliza o bloco */
+    margin-bottom: 10px; /* Espaçamento inferior de 10px */
+    box-shadow: 10px; /* Aplica sombra à caixa */
 }
 
+/* Estilo para cada item individual da lista de resultados */
 .item-resultado {
-    background: #cab2fb; 
-    border-radius: 0.6rem; 
-    padding: 1rem; 
-    margin-bottom: 1rem; 
-    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.308);
-    margin: auto;
-    margin-left: 25%;
-    align-content: center;
-    box-shadow: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    
+    background: #cab2fb; /* Cor de fundo em tom claro de roxo */
+    border-radius: 0.6rem; /* Arredondamento das bordas em 0.6rem */
+    padding: 1rem; /* Preenchimento interno de 1rem */
+    margin-bottom: 1rem; /* Espaçamento inferior entre os itens */
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.308); /* Sombra leve com transparência */
+    margin: auto; /* Centraliza o item */
+    margin-left: 25%; /* Move o item 25% para a direita */
+    align-content: center; /* Alinha o conteúdo no centro */
+    font-family: Arial, Helvetica, sans-serif; /* Define a família da fonte */
+    box-shadow: 10px; /* Sombra extra para o item */
 }

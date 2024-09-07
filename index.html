@@ -2,44 +2,60 @@
 <html lang="en">
 
 <head>
+    <!-- Declaração do charset para garantir a correta renderização de caracteres -->
     <meta charset="UTF-8">
+    
+    <!-- Definição da viewport para melhorar a responsividade em dispositivos móveis -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Título da página que será exibido na aba do navegador -->
     <title>Dicionário das Vozes</title>
+    
+    <!-- Link para o arquivo de estilo CSS externo -->
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-   
-    <header><b>Dicionário das Vozes &#128213</b>
-
+    <!-- Cabeçalho principal da página -->
+    <header>
+        <b>Dicionário das Vozes &#128213</b> <!-- Título com ícone de livro -->
     </header>
 
+    <!-- Primeira seção onde o usuário pode realizar pesquisas -->
     <section class="section1">
+        <!-- Subcabeçalho da seção -->
         <header><b>Pesquise seu dublador!</b></header>
+        
+        <!-- Descrição sobre a função e propósito da página -->
         <p>Mergulhe no mundo da dublagem brasileira e descubra as vozes que marcaram sua vida. Explore nosso banco de
             dados completo, assista a vídeos de dublagens icônicas e participe da nossa comunidade! Comece a sua
             pesquisa agora e encontre seu dublador favorito.</p>
+        
+        <!-- Link para a página da Wikipédia sobre dublagem, com ícone e texto descritivo -->
         <a href="https://pt.wikipedia.org/wiki/Dublagem" target="_blank"
             title="Acesse a página da Wikipédia sobre dublagem">
             <i class="fas fa-question-circle"></i> O que é dublagem?
-        </a><br>
-        <input type="text" class="input" id="PesquiInput" placeholder="Guilherme Briggs"><button
-            class="botao" onclick="pesquisar()">&#128270</button>
-            <h4><i>Comece pesquisando pelo titulo da série/filme ou personagem </i>&#128521;</h4>
+        </a><br> <!-- Quebra de linha -->
 
-    </section>
-
-    <section class="resultados-pesquisa" id="resultados-pesquisa">
-      
+        <!-- Campo de entrada para pesquisa de dubladores -->
+        <input type="text" class="input" id="PesquiInput" placeholder="Guilherme Briggs">
         
+        <!-- Botão para iniciar a pesquisa, com ícone de lupa -->
+        <button class="botao" onclick="pesquisar()">&#128270</button>
 
+        <!-- Texto auxiliar explicando ao usuário como realizar a pesquisa -->
+        <h4><i>Comece pesquisando pelo título da série/filme ou personagem </i>&#128521;</h4> <!-- Ícone de rosto sorridente -->
     </section>
 
+    <!-- Seção onde os resultados da pesquisa serão exibidos -->
+    <section class="resultados-pesquisa" id="resultados-pesquisa">
+        <!-- A princípio vazia, será preenchida dinamicamente pelo JavaScript -->
+    </section>
 
-
-    <script src="app.js"></script>
-    <script src="dados.js"></script>
+    <!-- Inclusão dos arquivos de script JavaScript -->
+    <script src="app.js"></script> <!-- Script principal para a lógica da pesquisa -->
+    <script src="dados.js"></script> <!-- Script que contém os dados dos dubladores -->
 </body>
 
 </html>
