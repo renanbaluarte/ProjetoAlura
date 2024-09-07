@@ -23,7 +23,7 @@ Este projeto foi criado com foco em facilitar a busca por dubladores brasileiros
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/dicionario-das-vozes.git
+   git clone https://github.com/renanbaluarte/ProjetoAlura.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
